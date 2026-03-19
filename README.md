@@ -1,2 +1,2 @@
-# ps3-game-db
-soon-to-be big list of ps3 games with their metadata
+# PS3 Game Database
+i will start working on this soon
